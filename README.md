@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amertime
 - 👀 I’m interested in engineering, robotics, & data science
-- 🌱 I’m currently learning python & C++
+- 🌱 I’m currently learning Python & C++
 - 💞️ I’m looking to collaborate on ... TBD, getting started for now
 - 📫 How to reach me ... TBD
 
