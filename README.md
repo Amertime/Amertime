@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amertime
-- 👀 I’m interested in engineering, robotics, & data science
+- 👀 I’m interested in engineering, languages, AI, & product design
 - 🌱 I’m currently learning Python & C++
-- 💞️ I’m looking to collaborate on ... TBD, getting started for now
+- 💞️ I’m looking to collaborate on ... having users test an app I'm developing.
 - 📫 How to reach me ... TBD
 
 <!---
